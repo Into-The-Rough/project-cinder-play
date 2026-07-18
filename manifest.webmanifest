@@ -1,0 +1,25 @@
+{
+  "name": "Project Cinder",
+  "short_name": "Cinder",
+  "description": "A seeded turn-based wasteland survival roguelike with procedural expeditions, dialogue, crafting, and camp building.",
+  "id": "./cinder-build-081",
+  "start_url": "./?launch=081",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#c6ad76",
+  "theme_color": "#6f4b2e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
