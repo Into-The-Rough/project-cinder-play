@@ -1,9 +1,9 @@
 {
   "name": "Project Cinder",
   "short_name": "Cinder",
-  "description": "A turn-based wasteland survival roguelike with character creation, S.P.E.C.I.A.L. attributes, perks, weather, crafting, and persistent interiors.",
+  "description": "A cinematic turn-based wasteland survival roguelike with character creation, S.P.E.C.I.A.L. attributes, perks, weather, crafting, and persistent interiors.",
   "id": "./cinder-build-081",
-  "start_url": "./?launch=0110",
+  "start_url": "./?launch=0120",
   "scope": "./",
   "display": "standalone",
   "orientation": "landscape",
