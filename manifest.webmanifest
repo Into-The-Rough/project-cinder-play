@@ -3,7 +3,7 @@
   "short_name": "Cinder",
   "description": "A turn-based wasteland survival roguelike with night, weather, persistent interiors, dialogue, crafting, armour, conditions, and camp building.",
   "id": "./cinder-build-081",
-  "start_url": "./?launch=0100",
+  "start_url": "./?launch=0101",
   "scope": "./",
   "display": "standalone",
   "orientation": "landscape",
