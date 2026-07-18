@@ -3,7 +3,7 @@
   "short_name": "Cinder",
   "description": "A cinematic turn-based wasteland survival roguelike with character creation, S.P.E.C.I.A.L. attributes, perks, weather, crafting, and persistent interiors.",
   "id": "./cinder-build-081",
-  "start_url": "./?launch=0120",
+  "start_url": "./?launch=0121",
   "scope": "./",
   "display": "standalone",
   "orientation": "landscape",
