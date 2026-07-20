@@ -1,9 +1,9 @@
 {
   "name": "Project Cinder",
   "short_name": "Cinder",
-  "description": "A cinematic turn-based Mojave survival roguelike with a Pip-Boy lamp, mountain vistas, valleys, oases, settlements, traders, Brahmin, dialogue, crafting, weather, and persistent interiors.",
+  "description": "A cinematic turn-based Mojave survival roguelike with scheduled survivors, living settlements, caravans, guards, memory, persistent consequences, and seamless interiors.",
   "id": "./cinder-build-081",
-  "start_url": "./?launch=0151",
+  "start_url": "./?launch=0160",
   "scope": "./",
   "display": "standalone",
   "orientation": "landscape",
