@@ -3,7 +3,7 @@
   "short_name": "Cinder",
   "description": "A cinematic turn-based Mojave survival roguelike with a vast seeded overworld, in-world body-part targeting, a living population, explosive projectiles, and persistent consequences.",
   "id": "./cinder-build-081",
-  "start_url": "./?launch=0180",
+  "start_url": "./?launch=0190",
   "scope": "./",
   "display": "standalone",
   "orientation": "landscape",
