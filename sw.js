@@ -1,4 +1,4 @@
-const CACHE = "project-cinder-v0.16.0";
+const CACHE = "project-cinder-v0.17.0";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
